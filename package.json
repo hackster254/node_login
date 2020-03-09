@@ -1,0 +1,19 @@
+{
+  "name": "node_login",
+  "version": "1.0.0",
+  "description": "SIMPLE LOGIN PAGE",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackster254/node_login.git"
+  },
+  "author": "HACKSTER 254",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackster254/node_login/issues"
+  },
+  "homepage": "https://github.com/hackster254/node_login#readme"
+}
