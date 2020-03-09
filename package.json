@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hackster254/node_login/issues"
   },
-  "homepage": "https://github.com/hackster254/node_login#readme"
+  "homepage": "https://github.com/hackster254/node_login#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
